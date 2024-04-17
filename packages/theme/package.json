@@ -1,0 +1,16 @@
+{
+  "name": "@kozina/theme",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
