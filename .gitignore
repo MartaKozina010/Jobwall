@@ -5,3 +5,5 @@ build
 .nx
 .vscode
 .env
+.idea
+/.idea
